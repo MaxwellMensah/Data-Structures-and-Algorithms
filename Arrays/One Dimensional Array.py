@@ -80,3 +80,5 @@ print(my_array.tolist())
 # 16. Slice elements from the array
 print("Step 16")
 print(my_array[2:])
+ 
+
